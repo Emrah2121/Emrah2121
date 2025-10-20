@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Emrah2121
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💫 About Me:
 
-<!---
-Emrah2121/Emrah2121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Emrah Aliyev, a passionate Backend Developer from Azerbaijan.
+I enjoy building scalable and efficient web applications, mostly using Laravel and modern backend technologies.
+My goal is to grow as a full-stack developer and create products that make people’s lives easier.
+
+🔭 Currently working on personal Laravel projects and improving my coding skills
+
+🌱 Learning more about API development, SaaS architecture, and cloud services
+
+💬 Ask me about Laravel, PHP, or MySQL
+
+⚡ Fun fact: I love turning ideas into real projects
+
+💻 Tech Stack:
+
+Languages & Frameworks: PHP, Laravel, JavaScript, HTML, CSS
+Databases: MySQL, PostgreSQL
+Tools: Git, GitHub, VS Code, Postman, Composer
+Other Interests: Next.js, Docker, AWS
+
+📫 Contact Me:
+
+📧 Email: developeremrah29.com
+
+🌐 Portfolio: ()
+💼 LinkedIn: www.linkedin.com/in/əmrah-əliyev-6b5b9b2b4
