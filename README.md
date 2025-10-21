@@ -1,6 +1,6 @@
 💫 About Me:
 
-Hi there! I'm Emrah Aliyev, a passionate Backend Developer from Azerbaijan.
+Hi there! I'm Amrah Aliyev, a passionate Backend Developer from Azerbaijan.
 I enjoy building scalable and efficient web applications, mostly using Laravel and modern backend technologies.
 My goal is to grow as a full-stack developer and create products that make people’s lives easier.
 
