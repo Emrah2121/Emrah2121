@@ -23,6 +23,6 @@ Other Interests: Next.js, Docker, AWS
 
 📧 Email: developeremrah29@gmail.com
 
-🌐 Portfolio: ()
+🌐 Portfolio: https://emrah2121.github.io/portfolio
 
 💼 LinkedIn: www.linkedin.com/in/əmrah-əliyev-6b5b9b2b4
